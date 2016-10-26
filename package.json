@@ -1,0 +1,34 @@
+{
+  "name": "abstractart.me",
+  "version": "1.0.0",
+  "description": "Generate an abstract art piece based off your data",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiagarcia/abstractArt.me.git"
+  },
+  "keywords": [
+    "generative",
+    "art",
+    "p5.js",
+    "abstract",
+    "creative",
+    "coding"
+  ],
+  "author": "Sofia Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiagarcia/abstractArt.me/issues"
+  },
+  "homepage": "https://github.com/sofiagarcia/abstractArt.me#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2"
+  }
+}

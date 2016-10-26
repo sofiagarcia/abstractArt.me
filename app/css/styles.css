@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+canvas {
+  margin: auto; }
+
+#header {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  margin: 3.5% auto; }
+
+.canvas-container {
+  display: block;
+  margin: inherit; }
+
+.user-input {
+  margin-left: 3%;
+  display: inline; }
+
+#nameField {
+  border-color: #200; }
